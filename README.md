@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @iuliant06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## After Cloning
+After cloning the repo, make sure to run `npm install` in the root of the project directory.
 
-<!---
-iuliant06/iuliant06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Running the application
+From the command line, in the root of the project, run `npm run start:dev` this will start the server on port 3000
